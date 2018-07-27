@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Crab",
+      "image": "http://openwalls.com/image/4634/underwater_orange_crab_1680x1050.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dolphin",
+      "image": "https://img1.grunge.com/img/gallery/are-dolphins-really-that-smart-and-other-cool-dolphin-facts/intro-1502400515.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Puffer",
+      "image": "http://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/istock_000008208368_small.jpg?itok=2zPzSCZL&resize=1100x619"
+    },
+    {
+      "id": 4,
+      "name": "Manta",
+      "image": "https://thumbs-prod.si-cdn.com/oeNZQ5U7XDM88UTZlHXUkcEGDOM=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/20/8b/208b24c9-8268-4ced-ada1-4dceeab85a5d/manta_ray.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Octopus",
+      "image": "https://nothinginbiology.files.wordpress.com/2015/08/coconut-octopus-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Humpback",
+      "image": "https://www.thehindu.com/news/national/kerala/article22353402.ece/alternates/FREE_660/thjc-humback%20nat%20geo"
+    },
+    {
+      "id": 7,
+      "name": "Shark",
+      "image": "https://vineyardgazette.com/sites/default/files/article-assets/main-photos/2017/sharks_great_white.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Clown",
+      "image": "https://i.ytimg.com/vi/Tqkq4zUJ3Yw/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Turtle",
+      "image": "https://cdn3.webdamdb.com/1280_InuodxVApHQ3.jpg?1528680850"
+    },
+    {
+      "id": 10,
+      "name": "Seahorse",
+      "image": "https://fusedjaw.com/wp-content/uploads/2003/10/Lined-Seahorse-In-Aquarium.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Clam",
+      "image": "https://us-east-1.tchyn.io/snopes-production/uploads/2018/03/giant_clam_feature.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Urchin",
+      "image": "https://qrius.si.edu/sites/default/files/styles/blog_feature_666/public/araeosomabelli_dave-pawson_smithsonian_pd_716x463_0.jpg?itok=4Ql7nkBc"
+    }
+  ]
+  
