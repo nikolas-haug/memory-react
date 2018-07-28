@@ -73,6 +73,7 @@ class App extends Component {
 
         <Title 
           header="Clicky Ocean Critters Game"
+          caption="don't click on the critters more than one time!"
           currentScore={this.state.currentScore}
           highScore={this.state.highScore}
           message={this.state.message}

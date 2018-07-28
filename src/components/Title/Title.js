@@ -4,6 +4,7 @@ import "./Title.css";
 const Title = (props) => (
     <div className="jumbotron sticky-top text-center py-2">
         <h1>{props.header}</h1>
+        <p>{props.caption}</p>
         <hr />
         <div className="container">
             <div className="row text-center">
