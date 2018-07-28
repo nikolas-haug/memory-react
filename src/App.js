@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 import CritterCard from "./components/CritterCard";
-// import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-// import Navbar from "./components/Navbar";
 import critters from "./critters.json";
-// import "./App.css";
+import "./App.css";
 
 // shuffle function - fischer yates algorithm
 function shuffle(a) {
