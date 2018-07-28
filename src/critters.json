@@ -26,8 +26,8 @@
     },
     {
       "id": 6,
-      "name": "Humpback",
-      "image": "https://www.thehindu.com/news/national/kerala/article22353402.ece/alternates/FREE_660/thjc-humback%20nat%20geo"
+      "name": "Nautilus",
+      "image": "https://www.montereybayaquarium.org/-/m/images/animal-guide/octopus-and-kin/chambered-nautilus-on-blue.jpg?bc=white&h=787&mh=916&mw=1222&w=1046&usecustomfunctions=1&cropx=153&cropy=0"
     },
     {
       "id": 7,
@@ -58,6 +58,26 @@
       "id": 12,
       "name": "Urchin",
       "image": "https://qrius.si.edu/sites/default/files/styles/blog_feature_666/public/araeosomabelli_dave-pawson_smithsonian_pd_716x463_0.jpg?itok=4Ql7nkBc"
+    },
+    {
+      "id": 13,
+      "name": "Lobster",
+      "image": "http://otlibrary.com/wp-content/gallery/atlantic-lobster/Atlantic-lobster-on-sea-bed.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Shrimp",
+      "image": "https://technostalls.com/wp-content/uploads/2018/04/FireShrimpSE_750_500_70.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Flatfish",
+      "image": "https://www.dailyscandinavian.com/wp-content/uploads/2017/08/230817-flounder-1024x684.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Snail",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91VeMNjGewL._SL1500_.jpg"
     }
   ]
   

@@ -74,12 +74,13 @@ class App extends Component {
       <div className="container">
 
         <Title 
+          header="Clicky Ocean Critters Game"
           currentScore={this.state.currentScore}
           highScore={this.state.highScore}
           message={this.state.message}
         />
 
-        <div className="row">
+        <div className="row justify-content-center">
           
             {this.state.critters.map(critter => (
               <CritterCard
