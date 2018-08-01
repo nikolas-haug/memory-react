@@ -81,10 +81,10 @@ class App extends Component {
 
         <div className="row justify-content-center">
           
-            {this.state.critters.map(critter => (
+            {this.state.critters.map((critter, index) => (
               <CritterCard
                 id={critter.id}
-                key={critter.id}
+                key={index}
                 name={critter.name}
                 image={critter.image}
                 handleClick={this.handleClick}
